@@ -1,5 +1,6 @@
 # bitbucket-cli
-Creating an APT package for bitbucket cli
+an APT package for bitbucket cli based on BASH and C.
+
 
 ## Targets.
 
